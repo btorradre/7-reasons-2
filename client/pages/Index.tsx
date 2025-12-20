@@ -324,11 +324,11 @@ export default function Index() {
               <div className="mb-4">
                 <img
                   src="/placeholder.svg"
-                  alt="Brittany H."
+                  alt="Patricia H."
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />
                 <div className="flex items-center gap-2 mb-2">
-                  <p className="font-bold text-gray-900">Brittany H.</p>
+                  <p className="font-bold text-gray-900">Patricia H.</p>
                   <div className="flex items-center gap-1 text-green-600 text-sm">
                     <Check className="w-4 h-4" />
                     <span className="font-semibold">Verified Buyer</span>
@@ -343,7 +343,7 @@ export default function Index() {
                 </div>
               </div>
               <p className="text-sm leading-relaxed text-gray-700" style={{ fontFamily: 'Open Sans, sans-serif' }}>
-                "I've had wrist and hand pain ever since I got pregnant... It got so bad I couldn't lift my daughter without sharp shooting pain. I was scared to try anything that wasn't approved by my doctor, but when I read it was developed by NASA and used by doctors, I felt safer. After just a few uses I already noticed the constant burning started easing up. Now I can finally hold my baby without wincing. That alone makes it worth every penny."
+                "I have familial hypercholesterolemia—it runs in my family. My mother, my grandmother, both on statins their entire adult lives. Both dealt with muscle weakness, both complained about feeling exhausted all the time. I thought that was just my genetic destiny. When my doctor handed me a statin prescription at 34, I was terrified I was starting down the same path. I gave Lunessa a try instead—clinical dosing based on actual research, certified citrinin-free, and in a form I could actually take every day without feeling sick. My cholesterol dropped 47 points in three months. No muscle pain. No exhaustion. No brain fog. I actually have energy to play with my kids after work now. For the first time in my life, I feel like I broke the family curse."
               </p>
             </div>
           </div>
