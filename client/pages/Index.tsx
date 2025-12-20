@@ -305,9 +305,14 @@ export default function Index() {
             </div>
 
             <div className="flex-1 text-center md:text-left">
-              <button className="w-full bg-gradient-to-r from-orange-400 to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white text-xl font-bold py-4 px-8 rounded-lg shadow-lg mb-4 transition-all">
+              <a
+                href="https://shoplunessa.store/products/lunessa®-heart-health-energy-support-gummies-copy"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block w-full bg-[#942327] hover:bg-[#7a1d21] text-white text-xl font-bold py-4 px-8 rounded-lg shadow-lg mb-4 transition-all"
+              >
                 Claim Buy 2 Get 1 Free →
-              </button>
+              </a>
               <p className="text-sm mb-2">
                 <span className="font-bold">Sell-Out Risk: <span className="text-red-600">High</span></span> | <span className="text-green-600 font-bold">FREE Shipping</span>
               </p>
