@@ -100,9 +100,9 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2">
               <img
-                src="/placeholder.svg"
-                alt="Oxidized LDL cholesterol concept"
-                className="w-full h-64 object-cover rounded-lg"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F954120b99036490190ecafc0f8685263?format=webp&width=800"
+                alt="Non-oxidized LDL vs Oxidized LDL artery comparison"
+                className="w-full h-auto object-contain rounded-lg"
               />
             </div>
           </div>
