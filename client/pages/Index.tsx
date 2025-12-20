@@ -20,7 +20,7 @@ export default function Index() {
         {/* Hero Section */}
         <section className="mb-8">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight" style={{ fontFamily: 'Merriweather, serif' }}>
-            7 Reasons Why Thousands Are Ditching Statins for this Natural Alternative
+            7 Reasons I Finally Swapped My Statin For This As A Cardiologist With High Cholesterol
           </h1>
 
           {/* Author Byline */}
@@ -32,10 +32,7 @@ export default function Index() {
             />
             <div>
               <p className="font-semibold text-gray-900" style={{ fontFamily: 'Open Sans, sans-serif' }}>
-                By Dr. Sarah Chen
-              </p>
-              <p className="text-sm text-gray-600" style={{ fontFamily: 'Open Sans, sans-serif' }}>
-                Cardiovascular Health Specialist
+                By Dr. Sarah Chen, MD, FACC
               </p>
             </div>
           </div>
@@ -44,22 +41,19 @@ export default function Index() {
 
           {/* Summary/Intro */}
           <p className="text-lg leading-relaxed mb-6" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-            <strong>Summary:</strong> If your doctor has ever handed you a statin prescription, you already know they rarely mention the muscle pain, memory fog, or complete CoQ10 depletion that comes with it. That's why over thousands have switched to Lunessa instead—a clinically-dosed combination of 2400mg red yeast rice and 200mg CoQ10 per serving in gummy form that supports healthy cholesterol without the side effects.
+            <strong>Summary:</strong> I spent 23 years prescribing statins and 8 years taking them myself. My numbers looked perfect on paper, but I felt exhausted, brain-fogged, and older than my years. I realized that standard treatment was missing the bigger picture. That's why I switched to Lunessa—a clinical-strength combination of 2400mg red yeast rice and 200mg CoQ10. Here is why.
           </p>
         </section>
 
-        {/* Point 1: Statins Don't Address Why Your Cholesterol Is High */}
+        {/* Point 1: It Addresses The "3-Part Problem" Statins Miss */}
         <section className="mb-12">
           <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
             <div className="order-2 md:order-1">
               <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-                1. Statins Don't Address Why Your Cholesterol Is High
+                1. It Addresses The "3-Part Problem" Statins Miss
               </h2>
-              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Most doctors treat high cholesterol like a plumbing problem—too much cholesterol floating around, so block the production and call it fixed. But here's what they're missing: your body makes cholesterol for a reason. If you're overproducing it, something deeper is wrong. Statins force your liver to stop making cholesterol, but they don't fix the inflammation, the oxidative stress, or the poor clearance mechanisms that created the problem. That's why so many people see their numbers creep back up over time, or why they need higher and higher doses just to maintain the same results.
-              </p>
               <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Lunessa works differently. The 2400mg of red yeast rice per serving helps moderate cholesterol production naturally, while the 200mg of CoQ10 per serving addresses the oxidative damage that makes cholesterol dangerous in the first place. It's not about forcing your body to stop doing something—it's about supporting the mechanisms that keep cholesterol balanced naturally.
+                I learned the hard way that high cholesterol isn't just about overproduction. It is a three-part failure: Overproduction, Poor Clearance, and Oxidation. Statins only stop your liver from producing cholesterol, but they do nothing to help clear what is already circulating or stop it from oxidizing. Lunessa's red yeast rice addresses production and activates clearance receptors, while the CoQ10 prevents dangerous oxidation—targeting all three mechanisms at once.
               </p>
             </div>
             <div className="order-1 md:order-2">
@@ -72,21 +66,15 @@ export default function Index() {
           </div>
         </section>
 
-        {/* Point 2: Statins Steal Your Energy at the Cellular Level */}
+        {/* Point 2: It Doesn't Cause A "Cellular Energy Crisis" */}
         <section className="mb-12">
           <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-            2. Statins Steal Your Energy at the Cellular Level
+            2. It Doesn't Cause A "Cellular Energy Crisis"
           </h2>
           <div className="grid md:grid-cols-2 gap-6 items-start mb-6">
             <div>
-              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Here's the part that shocked me when I first learned it: statins don't just block cholesterol production. They also block CoQ10 production. Same pathway. Same enzyme. And CoQ10 is what your mitochondria use to create energy in every single cell of your body—especially your heart and muscles.
-              </p>
-              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                That's why statin users complain about exhaustion, muscle weakness, and brain fog. It's not in their heads. Their cells literally can't produce energy efficiently anymore. Some cardiologists will prescribe CoQ10 separately to help with this, but most don't even mention it.
-              </p>
               <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Lunessa was designed with this in mind. Every serving delivers 200mg of CoQ10—the exact amount shown in clinical studies to support cellular energy production and protect against oxidative stress. It's third-party tested and formulated to work synergistically with the red yeast rice, not against your body's natural processes.
+                Statins work by blocking an enzyme called HMG-CoA reductase. The problem? That same enzyme produces CoQ10, which powers every cell in your body. When you take a statin, you are essentially starving your muscle and brain cells of energy. Lunessa delivers a therapeutic 200mg dose of CoQ10 per serving, replacing what is lost and preventing the fatigue and muscle pain that plague so many patients.
               </p>
             </div>
             <div>
@@ -99,48 +87,36 @@ export default function Index() {
           </div>
         </section>
 
-        {/* Point 3: You Don't Have to Swallow Horse-Sized Pills Twice a Day */}
+        {/* Point 3: It Stops The "Silent Killer": Oxidized LDL */}
         <section className="mb-12">
           <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-            3. You Don't Have to Swallow Horse-Sized Pills Twice a Day
+            3. It Stops The "Silent Killer": Oxidized LDL
           </h2>
           <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
             <div className="order-2 md:order-1">
-              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Let's be honest about something nobody talks about: medication compliance. Studies show that nearly 50% of people prescribed statins stop taking them within the first year. And it's not just because of side effects—it's because swallowing giant pills every single day feels awful.
-              </p>
-              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                I've had patients tell me they gag every morning. That they dread it. That they "forget" to take them because subconsciously they just can't deal with choking down another pill.
-              </p>
               <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Lunessa comes in gummy form. That's it. No choking. No gagging. No needing water or food. Just a raspberry-flavored gummy that you can actually take consistently, which is the only way any cholesterol support works long-term. It sounds simple, but this one change makes all the difference in whether people actually stick with it.
+                We obsess over the total LDL number, but oxidized LDL is what actually creates plaque and kills you. Because statins deplete your body's natural antioxidants (CoQ10), they can inadvertently leave the remaining cholesterol vulnerable to oxidation. Lunessa provides the antioxidant support needed to keep cholesterol from becoming "sticky" and dangerous.
               </p>
             </div>
             <div className="order-1 md:order-2">
               <img
                 src="/placeholder.svg"
-                alt="Easy-to-take gummy supplements"
+                alt="Oxidized LDL cholesterol concept"
                 className="w-full h-64 object-cover rounded-lg"
               />
             </div>
           </div>
         </section>
 
-        {/* Point 4: It's Backed by Real Science */}
+        {/* Point 4: It Offers Clinical Potency (Not Drugstore "Dusting") */}
         <section className="mb-12">
           <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-            4. It's Backed by Real Science
+            4. It Offers Clinical Potency (Not Drugstore "Dusting")
           </h2>
           <div className="grid md:grid-cols-2 gap-6 items-start mb-6">
             <div>
-              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Red yeast rice isn't some trendy supplement that appeared on Instagram last year. It's been used in traditional Chinese medicine for over 1,000 years and studied extensively in modern clinical trials. Multiple studies have shown that red yeast rice at clinical doses can support healthy cholesterol levels comparable to low-dose statins—but with a significantly better side effect profile.
-              </p>
-              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                The key phrase there is "clinical doses." Most supplements use 600mg or maybe 1200mg and hope you don't notice. Lunessa delivers 2400mg of red yeast rice per serving—the amount actually used in the research studies that showed results.
-              </p>
               <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                And because red yeast rice can sometimes contain citrinin (a harmful toxin) when manufactured improperly, Lunessa is certified citrinin-free and third-party tested. You're getting proper dosing based on the clinical studies, not guesswork.
+                Most red yeast rice supplements are worthless because they contain negligible active compounds or dangerous contaminants like citrinin. Lunessa is the first formula I found that meets clinical standards: 2400mg of red yeast rice per serving, third-party tested, and verified citrinin-free. It is medical-grade precision, not marketing hype.
               </p>
             </div>
             <div>
@@ -153,21 +129,15 @@ export default function Index() {
           </div>
         </section>
 
-        {/* Point 5: It Fits Into Your Life Without Taking Over Your Life */}
+        {/* Point 5: You Actually Want To Take It (Compliance = Results) */}
         <section className="mb-12">
           <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
             <div className="order-2 md:order-1">
               <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-                5. It Fits Into Your Life Without Taking Over Your Life
+                5. You Actually Want To Take It (Compliance = Results)
               </h2>
-              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Statins come with a list of requirements: take at night, avoid grapefruit, watch for muscle pain, get liver function tests, monitor for interactions with your other medications. It becomes this whole medical management situation that dominates your daily routine.
-              </p>
-              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Lunessa is the opposite. Take two gummies per day. That's it. No special timing. No food restrictions. No monthly blood work just to make sure it's not destroying your liver. You can take it in the morning with breakfast, at night before bed, or whenever works for your schedule.
-              </p>
               <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                People tell me this sounds too simple to be effective, but that simplicity is exactly why it works. When something is easy, you actually do it. And consistency is what creates results.
+                To get 2400mg of active ingredients, you would normally have to choke down huge horse pills. Lunessa uses a precision-engineered gummy format. It sounds trivial, but compliance is the #1 reason treatment fails. Because they are easy to take and taste good, my patients (and I) never miss a dose.
               </p>
             </div>
             <div className="order-1 md:order-2">
@@ -180,64 +150,36 @@ export default function Index() {
           </div>
         </section>
 
-        {/* Point 6: It Costs a Fraction of What You'll Spend on Statins */}
+        {/* Point 6: It Gave Me My Brain Back */}
         <section className="mb-12">
           <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-            6. It Costs a Fraction of What You'll Spend on Statins
+            6. It Gave Me My Brain Back
           </h2>
-          <p className="leading-relaxed mb-6" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-            Even with insurance, statins add up. Co-pays every month. Doctor visits every few months to monitor your levels and check for side effects. Liver function tests. And if you develop side effects, there are more medications to manage those, each with their own costs.
-          </p>
-          <p className="leading-relaxed mb-6" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-            One month's supply of Lunessa costs less than most people's monthly statin co-pay, and you can use it without the ongoing medical appointments and monitoring. You're getting clinical-level dosing of ingredients backed by actual research, in a form you'll actually take, at a price that doesn't require insurance negotiations or prior authorizations.
-          </p>
-
-          {/* Comparison Graphic */}
-          <div className="grid grid-cols-2 gap-4 bg-gray-50 p-6 rounded-lg">
-            <div className="text-center">
-              <div className="relative mb-4">
-                <img
-                  src="/placeholder.svg"
-                  alt="Expensive statin prescription bottles"
-                  className="w-full h-40 object-cover rounded-lg grayscale opacity-60"
-                />
-                <div className="absolute top-2 right-2 bg-red-500 rounded-full p-2">
-                  <X className="w-6 h-6 text-white" />
-                </div>
-              </div>
-              <p className="font-bold text-red-600 text-lg">Expensive</p>
+          <div className="grid md:grid-cols-2 gap-6 items-start mb-6">
+            <div>
+              <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                After eight years on Crestor, I struggled to remember patient names and felt a constant brain fog. Within weeks of switching to Lunessa, that fog lifted. I was sleeping 7 hours a night, remembering details again, and waking up feeling human. You don't have to choose between heart health and mental clarity.
+              </p>
             </div>
-            <div className="text-center">
-              <div className="relative mb-4">
-                <img
-                  src="/placeholder.svg"
-                  alt="Lunessa gummies"
-                  className="w-full h-40 object-cover rounded-lg"
-                />
-                <div className="absolute top-2 right-2 bg-green-500 rounded-full p-2">
-                  <Check className="w-6 h-6 text-white" />
-                </div>
-              </div>
-              <p className="font-bold text-green-600 text-lg">Affordable</p>
+            <div>
+              <img
+                src="/placeholder.svg"
+                alt="Mental clarity and brain health"
+                className="w-full h-64 object-cover rounded-lg"
+              />
             </div>
           </div>
         </section>
 
-        {/* Point 7: You Can Try It Completely Risk-Free */}
+        {/* Point 7: It's Completely Risk-Free (Unlike Prescriptions) */}
         <section className="mb-12">
           <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
             <div className="order-2 md:order-1">
               <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-                7. You Can Try It Completely Risk-Free
+                7. It's Completely Risk-Free (Unlike Prescriptions)
               </h2>
               <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Here's the fundamental difference: once you start statins, your doctor will likely tell you that you need to stay on them forever. There's no trial period. There's just "take this for the rest of your life" and hope the benefits outweigh the side effects.
-              </p>
-              <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Lunessa comes with a 90-day money-back guarantee. Try it for three full months. Track your energy levels. Notice whether you're sleeping better, thinking more clearly, or feeling stronger. Get your cholesterol tested and see the actual numbers. If you don't see a meaningful difference in how you feel and what your labs show, return it for a full refund.
-              </p>
-              <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                There's no pressure, no long-term commitment, and no risk. Just a real opportunity to support your cholesterol naturally without sacrificing your quality of life.
+                When you start a prescription, there is no "trial period." You are just a patient for life. Lunessa comes with a 90-Day Money-Back Guarantee. You can try it, track your energy, and even get your lipids tested. If you don't see the numbers drop and feel the energy return, you get a full refund.
               </p>
             </div>
             <div className="order-1 md:order-2 relative">
@@ -253,6 +195,13 @@ export default function Index() {
                 <p className="text-xs font-bold">Guarantee</p>
               </div>
             </div>
+          </div>
+
+          {/* The Verdict */}
+          <div className="mt-8 p-6 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg">
+            <p className="text-lg font-bold leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+              The Verdict: My LDL is stable at 84—lower than when I was on 80mg of Crestor—but I have my life back.
+            </p>
           </div>
         </section>
 
