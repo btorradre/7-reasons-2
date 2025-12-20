@@ -20,7 +20,7 @@ export default function Index() {
         {/* Hero Section */}
         <section className="mb-8">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight" style={{ fontFamily: 'Merriweather, serif' }}>
-            7 Reasons Why Thousands Are Ditching Surgery for This 15-Minute Wrist-Relief Device
+            7 Reasons Why Thousands Are Ditching Statins for this Natural Alternative
           </h1>
 
           {/* Author Byline */}
@@ -35,7 +35,7 @@ export default function Index() {
                 By Dr. Michael James
               </p>
               <p className="text-sm text-gray-600" style={{ fontFamily: 'Open Sans, sans-serif' }}>
-                Hand & Wrist Specialist
+                Cardiovascular Health Specialist
               </p>
             </div>
           </div>
@@ -44,7 +44,7 @@ export default function Index() {
 
           {/* Summary/Intro */}
           <p className="text-lg leading-relaxed mb-6" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-            <strong>Summary:</strong> If your doctor has ever mentioned carpal tunnel surgery, you already know how scary that sounds. That's why thousands of people dealing with carpal tunnel pain are choosing TheraWrap™ instead. It's a simple, non-invasive device that uses red and near-infrared light to relieve pain, restore strength, and help your hands heal naturally.
+            <strong>Summary:</strong> If your doctor has ever handed you a statin prescription, you already know they rarely mention the muscle pain, memory fog, or complete CoQ10 depletion that comes with it. That's why over thousands have switched to Lunessa instead—a clinically-dosed combination of 2400mg red yeast rice and 200mg CoQ10 per serving in gummy form that supports healthy cholesterol without the side effects.
           </p>
         </section>
 
