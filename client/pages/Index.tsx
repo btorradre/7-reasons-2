@@ -287,7 +287,7 @@ export default function Index() {
         <section className="border-4 border-dashed border-gray-300 p-8 rounded-lg mb-12 relative bg-gray-50">
           <div className="text-center mb-6">
             <h2 className="text-2xl md:text-3xl font-bold mb-2" style={{ fontFamily: 'Merriweather, serif' }}>
-              Limited Time Offer
+              BUY 2 GET 1 FREE
             </h2>
             <p className="text-gray-600" style={{ fontFamily: 'Open Sans, sans-serif' }}>
               This exclusive offer is in high demand and inventory keeps selling out.
@@ -298,21 +298,15 @@ export default function Index() {
             {/* Product Image with Badges */}
             <div className="relative">
               <img
-                src="/placeholder.svg"
-                alt="Lunessa Gummies"
-                className="w-64 h-64 object-cover rounded-lg"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F83b41a759ee24f298e7abd7a5f43a5e3?format=webp&width=800"
+                alt="Lunessa Red Yeast Rice + CoQ10 - Buy 2 Get 1 Free"
+                className="w-full max-w-2xl h-auto object-contain rounded-lg"
               />
-              {/* Exclusive 60% OFF Badge */}
-              <div className="absolute -top-6 -left-6 bg-red-600 text-white rounded-full w-32 h-32 flex flex-col items-center justify-center shadow-xl">
-                <p className="text-xs font-bold uppercase">Exclusive</p>
-                <p className="text-4xl font-black">60%</p>
-                <p className="text-xl font-bold uppercase">OFF</p>
-              </div>
             </div>
 
             <div className="flex-1 text-center md:text-left">
               <button className="w-full bg-gradient-to-r from-orange-400 to-orange-500 hover:from-orange-500 hover:to-orange-600 text-white text-xl font-bold py-4 px-8 rounded-lg shadow-lg mb-4 transition-all">
-                Get 60% Off Today →
+                Claim Buy 2 Get 1 Free →
               </button>
               <p className="text-sm mb-2">
                 <span className="font-bold">Sell-Out Risk: <span className="text-red-600">High</span></span> | <span className="text-green-600 font-bold">FREE Shipping</span>
