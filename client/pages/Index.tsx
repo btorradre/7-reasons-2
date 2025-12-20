@@ -184,9 +184,9 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2 relative">
               <img
-                src="/placeholder.svg"
-                alt="Lunessa gummies bottle"
-                className="w-full h-64 object-cover rounded-lg"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F1cfac38d8c2041679afdfd2384e6c66a?format=webp&width=800"
+                alt="Three bottles of Lunessa Red Yeast Rice + CoQ10 gummies"
+                className="w-full h-64 object-contain rounded-lg"
               />
               {/* 90-Day Guarantee Badge */}
               <div className="absolute -top-4 -right-4 bg-gradient-to-br from-yellow-400 to-yellow-600 text-white rounded-full w-28 h-28 flex flex-col items-center justify-center shadow-lg border-4 border-white">
