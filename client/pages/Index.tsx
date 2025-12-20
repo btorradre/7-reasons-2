@@ -72,21 +72,27 @@ export default function Index() {
           </div>
         </section>
 
-        {/* Point 2: It Fixes What Surgery Misses */}
+        {/* Point 2: Statins Steal Your Energy at the Cellular Level */}
         <section className="mb-12">
           <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-            2. It Fixes What Surgery Misses
+            2. Statins Steal Your Energy at the Cellular Level
           </h2>
           <div className="grid md:grid-cols-2 gap-6 items-start mb-6">
             <div>
               <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Carpal tunnel pain starts when swelling and pressure build around the <strong>median nerve</strong>. Surgery cuts the ligament to make more space, which can help for a while, but it doesn't fix the inflammation that causes the pressure. TheraWrap uses <strong>red and near-infrared light</strong> to reduce swelling, improve blood flow, and help the nerve heal naturally so the pain doesn't return.
+                Here's the part that shocked me when I first learned it: statins don't just block cholesterol production. They also block CoQ10 production. Same pathway. Same enzyme. And CoQ10 is what your mitochondria use to create energy in every single cell of your body—especially your heart and muscles.
+              </p>
+              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                That's why statin users complain about exhaustion, muscle weakness, and brain fog. It's not in their heads. Their cells literally can't produce energy efficiently anymore. Some cardiologists will prescribe CoQ10 separately to help with this, but most don't even mention it.
+              </p>
+              <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                Lunessa was designed with this in mind. Every serving delivers 200mg of CoQ10—the exact amount shown in clinical studies to support cellular energy production and protect against oxidative stress. It's third-party tested and formulated to work synergistically with the red yeast rice, not against your body's natural processes.
               </p>
             </div>
             <div>
               <img
                 src="/placeholder.svg"
-                alt="Scientific diagram showing light therapy penetrating skin layers"
+                alt="Mitochondria and cellular energy concept"
                 className="w-full h-64 object-cover rounded-lg"
               />
             </div>
