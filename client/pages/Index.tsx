@@ -121,8 +121,8 @@ export default function Index() {
             </div>
             <div>
               <img
-                src="/placeholder.svg"
-                alt="Clinical research and testing"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F39353efe158844e89ceec11d415ed200?format=webp&width=800"
+                alt="Cellular mitochondria visualization"
                 className="w-full h-64 object-cover rounded-lg"
               />
             </div>
