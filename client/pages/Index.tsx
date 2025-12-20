@@ -48,21 +48,24 @@ export default function Index() {
           </p>
         </section>
 
-        {/* Point 1: Surgery Isn't Guaranteed to Work */}
+        {/* Point 1: Statins Don't Address Why Your Cholesterol Is High */}
         <section className="mb-12">
           <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
             <div className="order-2 md:order-1">
               <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-                1. Surgery Isn't Guaranteed to Work
+                1. Statins Don't Address Why Your Cholesterol Is High
               </h2>
+              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                Most doctors treat high cholesterol like a plumbing problem—too much cholesterol floating around, so block the production and call it fixed. But here's what they're missing: your body makes cholesterol for a reason. If you're overproducing it, something deeper is wrong. Statins force your liver to stop making cholesterol, but they don't fix the inflammation, the oxidative stress, or the poor clearance mechanisms that created the problem. That's why so many people see their numbers creep back up over time, or why they need higher and higher doses just to maintain the same results.
+              </p>
               <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Many people assume surgery will fix the problem for good, but that's not always true. Patients often deal with lingering pain, numbness, or stiffness months after the procedure. Some even experience <strong>worse symptoms than before</strong>. TheraWrap helps you avoid that risk completely. It promotes <strong>healing naturally</strong>, so there's no cutting, scarring, or permanent side effects.
+                Lunessa works differently. The 2400mg of red yeast rice per serving helps moderate cholesterol production naturally, while the 200mg of CoQ10 per serving addresses the oxidative damage that makes cholesterol dangerous in the first place. It's not about forcing your body to stop doing something—it's about supporting the mechanisms that keep cholesterol balanced naturally.
               </p>
             </div>
             <div className="order-1 md:order-2">
               <img
                 src="/placeholder.svg"
-                alt="Doctor examining patient's hand with surgical concern"
+                alt="Cholesterol and heart health concept"
                 className="w-full h-64 object-cover rounded-lg"
               />
             </div>
