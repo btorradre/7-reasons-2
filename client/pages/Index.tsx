@@ -26,13 +26,13 @@ export default function Index() {
           {/* Author Byline */}
           <div className="flex items-center gap-3 mb-6">
             <img
-              src="/placeholder.svg"
-              alt="Dr. Michael James"
+              src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F16f2727152594a409b4b6333216ba502?format=webp&width=800"
+              alt="Dr. Sarah Chen"
               className="w-12 h-12 rounded-full object-cover"
             />
             <div>
               <p className="font-semibold text-gray-900" style={{ fontFamily: 'Open Sans, sans-serif' }}>
-                By Dr. Michael James
+                By Dr. Sarah Chen
               </p>
               <p className="text-sm text-gray-600" style={{ fontFamily: 'Open Sans, sans-serif' }}>
                 Cardiovascular Health Specialist
