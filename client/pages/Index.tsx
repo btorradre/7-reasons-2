@@ -296,11 +296,11 @@ export default function Index() {
               <div className="mb-4">
                 <img
                   src="/placeholder.svg"
-                  alt="Sean T."
+                  alt="David K."
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />
                 <div className="flex items-center gap-2 mb-2">
-                  <p className="font-bold text-gray-900">Sean T.</p>
+                  <p className="font-bold text-gray-900">David K.</p>
                   <div className="flex items-center gap-1 text-green-600 text-sm">
                     <Check className="w-4 h-4" />
                     <span className="font-semibold">Verified Buyer</span>
@@ -315,7 +315,7 @@ export default function Index() {
                 </div>
               </div>
               <p className="text-sm leading-relaxed text-gray-700" style={{ fontFamily: 'Open Sans, sans-serif' }}>
-                "I work construction, so when my hands started tingling, I thought it was just overuse. But it got to the point where I couldn't even hold my tools. My doctor said surgery might help but I can't afford to be off work. A buddy from my crew told me about this wrist wrap. It's simple—I use it every night while watching TV. My grip strength is back, and the numbness is almost gone. It's seriously a lifesaver."
+                "I'm a software engineer, so when I started forgetting simple things and losing words mid-sentence on statins, I knew something was wrong. My doctor insisted it wasn't the medication, but the timing was too obvious. I stopped taking them and started researching. Found out about the whole CoQ10 depletion issue—how statins block the same pathway your brain needs to function. That's when I found Lunessa. The gummy format made it easy to actually take consistently, unlike those horse-sized statin pills I dreaded every morning. After about six weeks, the brain fog lifted. I can think clearly again, my memory is back, and my last cholesterol panel came back in a healthy range. I wish I'd known about this years ago."
               </p>
             </div>
 
