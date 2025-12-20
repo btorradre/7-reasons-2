@@ -180,13 +180,16 @@ export default function Index() {
           </div>
         </section>
 
-        {/* Point 6: It's Affordable Compared to Surgery */}
+        {/* Point 6: It Costs a Fraction of What You'll Spend on Statins */}
         <section className="mb-12">
           <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-            6. It's Affordable Compared to Surgery
+            6. It Costs a Fraction of What You'll Spend on Statins
           </h2>
           <p className="leading-relaxed mb-6" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-            <strong>Surgery can cost thousands of dollars</strong>, especially if insurance doesn't cover everything. Even with coverage, you're often left with expensive co-pays and therapy bills afterward. <strong>TheraWrap costs a fraction of that</strong> and can be used over and over again. You're getting long-term relief at a price most people can actually afford.
+            Even with insurance, statins add up. Co-pays every month. Doctor visits every few months to monitor your levels and check for side effects. Liver function tests. And if you develop side effects, there are more medications to manage those, each with their own costs.
+          </p>
+          <p className="leading-relaxed mb-6" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+            One month's supply of Lunessa costs less than most people's monthly statin co-pay, and you can use it without the ongoing medical appointments and monitoring. You're getting clinical-level dosing of ingredients backed by actual research, in a form you'll actually take, at a price that doesn't require insurance negotiations or prior authorizations.
           </p>
 
           {/* Comparison Graphic */}
@@ -195,7 +198,7 @@ export default function Index() {
               <div className="relative mb-4">
                 <img
                   src="/placeholder.svg"
-                  alt="Surgery operating room"
+                  alt="Expensive statin prescription bottles"
                   className="w-full h-40 object-cover rounded-lg grayscale opacity-60"
                 />
                 <div className="absolute top-2 right-2 bg-red-500 rounded-full p-2">
@@ -208,7 +211,7 @@ export default function Index() {
               <div className="relative mb-4">
                 <img
                   src="/placeholder.svg"
-                  alt="TheraWrap device on hand"
+                  alt="Lunessa gummies"
                   className="w-full h-40 object-cover rounded-lg"
                 />
                 <div className="absolute top-2 right-2 bg-green-500 rounded-full p-2">
