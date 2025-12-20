@@ -99,21 +99,27 @@ export default function Index() {
           </div>
         </section>
 
-        {/* Point 3: No Recovery Time or Missed Work */}
+        {/* Point 3: You Don't Have to Swallow Horse-Sized Pills Twice a Day */}
         <section className="mb-12">
           <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-            3. No Recovery Time or Missed Work
+            3. You Don't Have to Swallow Horse-Sized Pills Twice a Day
           </h2>
           <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
             <div className="order-2 md:order-1">
+              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                Let's be honest about something nobody talks about: medication compliance. Studies show that nearly 50% of people prescribed statins stop taking them within the first year. And it's not just because of side effects—it's because swallowing giant pills every single day feels awful.
+              </p>
+              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                I've had patients tell me they gag every morning. That they dread it. That they "forget" to take them because subconsciously they just can't deal with choking down another pill.
+              </p>
               <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Surgery can keep you out of work or your normal routine for weeks. You might need physical therapy and help with daily tasks while you recover. <strong>TheraWrap gives you relief without sacrificing your life</strong>. You can use it today and go about your normal schedule immediately. No bandages. No downtime.
+                Lunessa comes in gummy form. That's it. No choking. No gagging. No needing water or food. Just a raspberry-flavored gummy that you can actually take consistently, which is the only way any cholesterol support works long-term. It sounds simple, but this one change makes all the difference in whether people actually stick with it.
               </p>
             </div>
             <div className="order-1 md:order-2">
               <img
                 src="/placeholder.svg"
-                alt="Active woman playing pickleball or tennis"
+                alt="Easy-to-take gummy supplements"
                 className="w-full h-64 object-cover rounded-lg"
               />
             </div>
