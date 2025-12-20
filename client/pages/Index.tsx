@@ -6,13 +6,13 @@ export default function Index() {
       {/* Header */}
       <header className="bg-[#5B9BD5] text-white py-4">
         <div className="max-w-7xl mx-auto px-4 text-center">
-          <h1 className="text-xl font-semibold tracking-wide">Wellness Review Journal</h1>
+          <h1 className="text-xl font-semibold tracking-wide">Heart Health Journal</h1>
         </div>
       </header>
 
       {/* Breadcrumbs */}
       <div className="max-w-[700px] mx-auto px-4 mt-4">
-        <p className="text-sm text-gray-500">Home &gt; Health &gt; Hand Pain Management</p>
+        <p className="text-sm text-gray-500">Home &gt; Health &gt; Cholesterol Management</p>
       </div>
 
       {/* Main Content Container */}
