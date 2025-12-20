@@ -121,8 +121,8 @@ export default function Index() {
             </div>
             <div>
               <img
-                src="/placeholder.svg"
-                alt="Clinical research and testing"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F78598b2183c545b6af46685ce50714fc?format=webp&width=800"
+                alt="Lunessa Red Yeast Rice + CoQ10 supplement bottle"
                 className="w-full h-64 object-cover rounded-lg"
               />
             </div>
