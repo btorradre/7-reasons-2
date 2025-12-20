@@ -356,7 +356,7 @@ export default function Index() {
               Limited Time Offer
             </h2>
             <p className="text-gray-600" style={{ fontFamily: 'Open Sans, sans-serif' }}>
-              This exclusive deal is in high demand and stock keeps sells out.
+              This exclusive offer is in high demand and inventory keeps selling out.
             </p>
           </div>
 
@@ -365,7 +365,7 @@ export default function Index() {
             <div className="relative">
               <img
                 src="/placeholder.svg"
-                alt="TheraWrap Device"
+                alt="Lunessa Gummies"
                 className="w-64 h-64 object-cover rounded-lg"
               />
               {/* Exclusive 60% OFF Badge */}
@@ -373,12 +373,6 @@ export default function Index() {
                 <p className="text-xs font-bold uppercase">Exclusive</p>
                 <p className="text-4xl font-black">60%</p>
                 <p className="text-xl font-bold uppercase">OFF</p>
-              </div>
-              {/* FDA Registered Badge */}
-              <div className="absolute -bottom-4 -right-4 bg-gradient-to-br from-yellow-400 to-yellow-600 text-white rounded-full w-24 h-24 flex flex-col items-center justify-center shadow-lg border-4 border-white">
-                <p className="text-xs font-bold">FDA</p>
-                <p className="text-lg font-black">REGI-</p>
-                <p className="text-lg font-black -mt-2">STERED</p>
               </div>
             </div>
 
@@ -390,7 +384,7 @@ export default function Index() {
                 <span className="font-bold">Sell-Out Risk: <span className="text-red-600">High</span></span> | <span className="text-green-600 font-bold">FREE Shipping</span>
               </p>
               <p className="text-sm text-gray-700 font-semibold">
-                Try it today with a 90-Day Money Back Guarantee!
+                Try Lunessa today with a 90-Day Money Back Guarantee!
               </p>
             </div>
           </div>
