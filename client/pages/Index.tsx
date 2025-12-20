@@ -58,8 +58,8 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2">
               <img
-                src="/placeholder.svg"
-                alt="Cholesterol and heart health concept"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa39b0bb6a38a4492826f3c6b9bf857d0?format=webp&width=800"
+                alt="Lunessa gummies"
                 className="w-full h-64 object-cover rounded-lg"
               />
             </div>
