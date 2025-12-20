@@ -223,21 +223,27 @@ export default function Index() {
           </div>
         </section>
 
-        {/* Point 7: It's Completely Risk-Free to Try */}
+        {/* Point 7: You Can Try It Completely Risk-Free */}
         <section className="mb-12">
           <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
             <div className="order-2 md:order-1">
               <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-                7. It's Completely Risk-Free to Try
+                7. You Can Try It Completely Risk-Free
               </h2>
+              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                Here's the fundamental difference: once you start statins, your doctor will likely tell you that you need to stay on them forever. There's no trial period. There's just "take this for the rest of your life" and hope the benefits outweigh the side effects.
+              </p>
               <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                Surgery is a one-way street. Once it's done, there's no going back. TheraWrap is the opposite. <strong>You can try it at home for 90 days with a full money-back guarantee</strong>. If you don't notice a difference — less pain, better movement, improved sleep — you can return it for a full refund. There's no risk, no pressure, and no long-term commitment. Just a real chance to feel normal again.
+                Lunessa comes with a 90-day money-back guarantee. Try it for three full months. Track your energy levels. Notice whether you're sleeping better, thinking more clearly, or feeling stronger. Get your cholesterol tested and see the actual numbers. If you don't see a meaningful difference in how you feel and what your labs show, return it for a full refund.
+              </p>
+              <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                There's no pressure, no long-term commitment, and no risk. Just a real opportunity to support your cholesterol naturally without sacrificing your quality of life.
               </p>
             </div>
             <div className="order-1 md:order-2 relative">
               <img
                 src="/placeholder.svg"
-                alt="TheraWrap device on hand"
+                alt="Lunessa gummies bottle"
                 className="w-full h-64 object-cover rounded-lg"
               />
               {/* 90-Day Guarantee Badge */}
