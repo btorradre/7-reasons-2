@@ -126,21 +126,27 @@ export default function Index() {
           </div>
         </section>
 
-        {/* Point 4: It's Safe and Scientifically Proven */}
+        {/* Point 4: It's Backed by Real Science */}
         <section className="mb-12">
           <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-            4. It's Safe and Scientifically Proven
+            4. It's Backed by Real Science
           </h2>
           <div className="grid md:grid-cols-2 gap-6 items-start mb-6">
             <div>
               <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                The same light therapy technology used in TheraWrap was originally developed by <strong>NASA</strong> and is now used by <strong>doctors, physical therapists, and athletes</strong> around the world. It's safe, non-invasive, and backed by years of research showing its ability to reduce pain and inflammation. TheraWrap takes that same science and makes it simple enough to use at home, without needing expensive clinical treatments.
+                Red yeast rice isn't some trendy supplement that appeared on Instagram last year. It's been used in traditional Chinese medicine for over 1,000 years and studied extensively in modern clinical trials. Multiple studies have shown that red yeast rice at clinical doses can support healthy cholesterol levels comparable to low-dose statins—but with a significantly better side effect profile.
+              </p>
+              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                The key phrase there is "clinical doses." Most supplements use 600mg or maybe 1200mg and hope you don't notice. Lunessa delivers 2400mg of red yeast rice per serving—the amount actually used in the research studies that showed results.
+              </p>
+              <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                And because red yeast rice can sometimes contain citrinin (a harmful toxin) when manufactured improperly, Lunessa is certified citrinin-free and third-party tested. You're getting proper dosing based on the clinical studies, not guesswork.
               </p>
             </div>
             <div>
               <img
                 src="/placeholder.svg"
-                alt="Doctor holding TheraWrap device"
+                alt="Clinical research and testing"
                 className="w-full h-64 object-cover rounded-lg"
               />
             </div>
