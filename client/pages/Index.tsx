@@ -11,12 +11,12 @@ export default function Index() {
       </header>
 
       {/* Breadcrumbs */}
-      <div className="max-w-[700px] mx-auto px-2 mt-4">
+      <div className="max-w-7xl mx-auto px-2 mt-4">
         <p className="text-sm text-gray-500">Home &gt; Health &gt; Cholesterol Management</p>
       </div>
 
       {/* Main Content Container */}
-      <main className="max-w-[700px] mx-auto px-2 py-8">
+      <main className="max-w-7xl mx-auto px-2 py-8">
         {/* Hero Section */}
         <section className="mb-8">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight" style={{ fontFamily: 'Merriweather, serif' }}>
