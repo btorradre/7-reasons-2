@@ -268,11 +268,11 @@ export default function Index() {
               <div className="mb-4">
                 <img
                   src="/placeholder.svg"
-                  alt="Anne M."
+                  alt="Margaret T."
                   className="w-full h-48 object-cover rounded-lg mb-4"
                 />
                 <div className="flex items-center gap-2 mb-2">
-                  <p className="font-bold text-gray-900">Anne M.</p>
+                  <p className="font-bold text-gray-900">Margaret T.</p>
                   <div className="flex items-center gap-1 text-green-600 text-sm">
                     <Check className="w-4 h-4" />
                     <span className="font-semibold">Verified Buyer</span>
@@ -287,7 +287,7 @@ export default function Index() {
                 </div>
               </div>
               <p className="text-sm leading-relaxed text-gray-700" style={{ fontFamily: 'Open Sans, sans-serif' }}>
-                "My husband had carpal tunnel surgery last year and still complains about stiffness... I didn't want to go through that. When I read about TheraWrap, I figured I had nothing to lose. The first time I used it, I felt this warm, soothing sensation. It's been about a month now, and I can finally hold my coffee mug without that sharp shooting pain. I'm not saying it's a miracle, but that's the only thing that's actually worked for me."
+                "My doctor put me on statins three years ago. Within six months, I could barely climb stairs without my legs burning. I told him about it, and he said 'that's just part of aging.' I'm 52, not 82. I found Lunessa while researching alternatives. 2400mg of red yeast rice and 200mg of CoQ10 per serving, third-party tested, in gummy form so I didn't have to choke down more pills. I figured I had nothing to lose. Within three weeks, the muscle pain started easing up. After two months, my energy came back. I got my cholesterol tested at three months—my numbers were better than they'd been on statins, and I felt like myself again for the first time in years. I'm not saying it's magic, but it's the only thing that's actually worked without making me feel like I'm falling apart."
               </p>
             </div>
 
