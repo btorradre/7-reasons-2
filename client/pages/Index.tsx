@@ -153,21 +153,27 @@ export default function Index() {
           </div>
         </section>
 
-        {/* Point 5: It's Easy to Use and Works Fast */}
+        {/* Point 5: It Fits Into Your Life Without Taking Over Your Life */}
         <section className="mb-12">
           <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
             <div className="order-2 md:order-1">
               <h2 className="text-2xl md:text-3xl font-bold mb-4" style={{ fontFamily: 'Merriweather, serif' }}>
-                5. It's Easy to Use and Works Fast
+                5. It Fits Into Your Life Without Taking Over Your Life
               </h2>
+              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                Statins come with a list of requirements: take at night, avoid grapefruit, watch for muscle pain, get liver function tests, monitor for interactions with your other medications. It becomes this whole medical management situation that dominates your daily routine.
+              </p>
+              <p className="leading-relaxed mb-4" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
+                Lunessa is the opposite. Take two gummies per day. That's it. No special timing. No food restrictions. No monthly blood work just to make sure it's not destroying your liver. You can take it in the morning with breakfast, at night before bed, or whenever works for your schedule.
+              </p>
               <p className="leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
-                TheraWrap fits right into your day. Just slip it on, press one button, and <strong>relax for 15 minutes</strong>. You can use it while reading, watching TV, or winding down before bed. Users say they often feel gentle warmth and soothing relief within the first few sessions. It's not complicated, it's not time-consuming, and it doesn't require medical appointments or long instructions.
+                People tell me this sounds too simple to be effective, but that simplicity is exactly why it works. When something is easy, you actually do it. And consistency is what creates results.
               </p>
             </div>
             <div className="order-1 md:order-2">
               <img
                 src="/placeholder.svg"
-                alt="Woman relaxing on couch using TheraWrap device"
+                alt="Simple daily routine with gummies"
                 className="w-full h-64 object-cover rounded-lg"
               />
             </div>
