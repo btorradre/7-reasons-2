@@ -259,7 +259,7 @@ export default function Index() {
         {/* Social Proof / Testimonials Section */}
         <section className="mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-8" style={{ fontFamily: 'Merriweather, serif' }}>
-            Why 15,200+ People Are Choosing TheraWrap™
+            Why 47,000+ People Trust Lunessa™
           </h2>
 
           <div className="grid md:grid-cols-3 gap-6">
