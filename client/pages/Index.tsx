@@ -493,7 +493,7 @@ export default function Index() {
 
             <div className="flex-1 text-center md:text-left">
               <a
-                href="https://shoplunessa.store/products/lunessa®-heart-health-energy-support-gummies-copy"
+                href="https://shoplunessa.store/products/lunessa"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-[#942327] hover:bg-[#7a1d21] text-white text-xl font-bold py-4 px-8 rounded-lg shadow-lg mb-4 transition-all"
