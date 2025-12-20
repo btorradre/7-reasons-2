@@ -4,7 +4,7 @@ export default function Index() {
   return (
     <div className="min-h-screen bg-white">
       {/* Header */}
-      <header className="bg-[#5B9BD5] text-white py-4">
+      <header className="bg-[#942327] text-white py-4">
         <div className="max-w-7xl mx-auto px-2 text-center">
           <h1 className="text-xl font-semibold tracking-wide">Heart Health Journal</h1>
         </div>
@@ -198,7 +198,7 @@ export default function Index() {
           </div>
 
           {/* The Verdict */}
-          <div className="mt-8 p-6 bg-blue-50 border-l-4 border-blue-500 rounded-r-lg">
+          <div className="mt-8 p-6 bg-[#fef2f2] border-l-4 border-[#942327] rounded-r-lg">
             <p className="text-lg font-bold leading-relaxed" style={{ fontFamily: 'Open Sans, sans-serif', color: '#333333' }}>
               The Verdict: My LDL is stable at 84—lower than when I was on 80mg of Crestor—but I have my life back.
             </p>
