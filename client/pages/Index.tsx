@@ -215,11 +215,6 @@ export default function Index() {
             {/* Testimonial 1 */}
             <div className="bg-gray-50 p-6 rounded-lg">
               <div className="mb-4">
-                <img
-                  src="/placeholder.svg"
-                  alt="Margaret T."
-                  className="w-full h-48 object-cover rounded-lg mb-4"
-                />
                 <div className="flex items-center gap-2 mb-2">
                   <p className="font-bold text-gray-900">Margaret T.</p>
                   <div className="flex items-center gap-1 text-green-600 text-sm">
@@ -243,11 +238,6 @@ export default function Index() {
             {/* Testimonial 2 */}
             <div className="bg-gray-50 p-6 rounded-lg">
               <div className="mb-4">
-                <img
-                  src="/placeholder.svg"
-                  alt="David K."
-                  className="w-full h-48 object-cover rounded-lg mb-4"
-                />
                 <div className="flex items-center gap-2 mb-2">
                   <p className="font-bold text-gray-900">David K.</p>
                   <div className="flex items-center gap-1 text-green-600 text-sm">
@@ -271,11 +261,6 @@ export default function Index() {
             {/* Testimonial 3 */}
             <div className="bg-gray-50 p-6 rounded-lg">
               <div className="mb-4">
-                <img
-                  src="/placeholder.svg"
-                  alt="Patricia H."
-                  className="w-full h-48 object-cover rounded-lg mb-4"
-                />
                 <div className="flex items-center gap-2 mb-2">
                   <p className="font-bold text-gray-900">Patricia H.</p>
                   <div className="flex items-center gap-1 text-green-600 text-sm">
