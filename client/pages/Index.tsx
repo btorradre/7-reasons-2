@@ -91,7 +91,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe066a97969ad4f6b97f1994bb4cf135d?format=webp&width=800"
                 alt="Red yeast rice"
-                className="w-full aspect-square object-cover rounded-2xl"
+                className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
             </div>
           </div>
@@ -130,7 +130,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F39353efe158844e89ceec11d415ed200?format=webp&width=800"
                 alt="Third-party testing certification"
-                className="w-full aspect-square object-cover rounded-2xl"
+                className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
             </div>
           </div>
@@ -178,7 +178,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F8bf672d855c34a67abbbad849909d896?format=webp&width=800"
                 alt="HMG-CoA Reductase mechanism in liver"
-                className="w-full aspect-square object-cover rounded-2xl"
+                className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
             </div>
           </div>
@@ -226,7 +226,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa5c347b7763a487aa36a7f06001eea7e?format=webp&width=800"
                 alt="Lunessa gummy supplement"
-                className="w-full aspect-square object-cover rounded-2xl"
+                className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
             </div>
           </div>
@@ -274,7 +274,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F78598b2183c545b6af46685ce50714fc?format=webp&width=800"
                 alt="Third-party testing and quality control"
-                className="w-full aspect-square object-cover rounded-2xl"
+                className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
             </div>
           </div>
@@ -322,7 +322,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F2f251320bed641e8870909f7c89bb250?format=webp&width=800"
                 alt="Cholesterol oxidation in blood vessels"
-                className="w-full aspect-square object-cover rounded-2xl"
+                className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
             </div>
           </div>
@@ -370,7 +370,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F1cfac38d8c2041679afdfd2384e6c66a?format=webp&width=800"
                 alt="Three bottles of Lunessa Red Yeast Rice + CoQ10 gummies"
-                className="w-full aspect-square object-cover rounded-2xl"
+                className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
               {/* 90-Day Guarantee Badge */}
               <div className="absolute -top-4 -right-4 bg-gradient-to-br from-yellow-400 to-yellow-600 text-white rounded-full w-28 h-28 flex flex-col items-center justify-center shadow-lg border-4 border-white">
