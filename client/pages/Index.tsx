@@ -42,7 +42,7 @@ export default function Index() {
                 className="font-semibold text-gray-900"
                 style={{ fontFamily: "Open Sans, sans-serif" }}
               >
-                By Dr. Sarah Chen, MD, FACC
+                By Dr. Sarah Chen, MD, FACC — Preventative Cardiologist
               </p>
             </div>
           </div>
@@ -54,7 +54,7 @@ export default function Index() {
             className="text-lg leading-relaxed mb-6"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            After 23 years in cardiology, I've watched 50-60% of my patients discontinue statins within 18 months due to myalgia, cognitive complaints, and fatigue. For statin-intolerant patients, I developed a protocol using red yeast rice combined with CoQ10—but not all formulations meet clinical standards. Here are the seven criteria I require:
+            After 23 years in preventative cardiology, I walked away from a system that prioritizes pharmaceutical profits over patient outcomes. I've watched 50-60% of my patients discontinue statins within 18 months due to myalgia, cognitive complaints, and fatigue—side effects the industry dismisses as "necessary trade-offs." I refused to accept that narrative. For statin-intolerant patients, I developed a protocol using red yeast rice combined with CoQ10—but not all formulations meet clinical standards. Here are the seven criteria I require:
           </p>
         </section>
 
