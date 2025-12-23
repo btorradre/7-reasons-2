@@ -457,19 +457,19 @@ export default function Index() {
             className="text-lg leading-relaxed mb-4"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            The cardiovascular medicine paradigm is built on pharmaceutical statins. Medical school curricula, residency training, fellowship programs, and continuing education are all structured around statin-first protocols.
+            The cardiovascular medicine paradigm is built on pharmaceutical statins—and the financial incentives that keep them there. Medical school curricula, residency training, fellowship programs, and continuing education are all funded by pharmaceutical companies promoting statin-first protocols.
           </p>
           <p
             className="text-lg leading-relaxed mb-4"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            Most cardiologists are unfamiliar with red yeast rice clinical literature, concerned about supplement quality variability, or uncomfortable recommending interventions outside standard guidelines.
+            Most cardiologists are trained to follow guidelines written by committees with pharmaceutical conflicts of interest. They're unfamiliar with red yeast rice clinical literature because it doesn't appear in industry-sponsored journals or CME courses. The system rewards prescription writing, not patient outcomes.
           </p>
           <p
             className="text-lg leading-relaxed"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            I spent two years reviewing the evidence before developing this protocol. The clinical data supports red yeast rice + CoQ10 as a legitimate option for specific patient populations.
+            I spent two years reviewing the evidence before developing this protocol—evidence the industry ignores because it threatens their profit model. The clinical data supports red yeast rice + CoQ10 as a legitimate option for specific patient populations. I chose patients over protocols.
           </p>
         </section>
 
