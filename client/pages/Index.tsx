@@ -445,34 +445,6 @@ export default function Index() {
           </p>
         </section>
 
-        {/* Why Most Cardiologists Don't Recommend This */}
-        <section className="mb-12 max-w-4xl mx-auto text-center">
-          <h2
-            className="text-3xl md:text-4xl font-bold mb-6"
-            style={{ fontFamily: "Merriweather, serif" }}
-          >
-            Why Most Cardiologists Don't Recommend This
-          </h2>
-          <p
-            className="text-lg leading-relaxed mb-4"
-            style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
-          >
-            The cardiovascular medicine paradigm is built on pharmaceutical statins—and the financial incentives that keep them there. Medical school curricula, residency training, fellowship programs, and continuing education are all funded by pharmaceutical companies promoting statin-first protocols.
-          </p>
-          <p
-            className="text-lg leading-relaxed mb-4"
-            style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
-          >
-            Most cardiologists are trained to follow guidelines written by committees with pharmaceutical conflicts of interest. They're unfamiliar with red yeast rice clinical literature because it doesn't appear in industry-sponsored journals or CME courses. The system rewards prescription writing, not patient outcomes.
-          </p>
-          <p
-            className="text-lg leading-relaxed"
-            style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
-          >
-            I spent two years reviewing the evidence before developing this protocol—evidence the industry ignores because it threatens their profit model. The clinical data supports red yeast rice + CoQ10 as a legitimate option for specific patient populations. I chose patients over protocols.
-          </p>
-        </section>
-
         {/* The Formulation I Recommend */}
         <section className="mb-12 max-w-4xl mx-auto text-center">
           <h2
