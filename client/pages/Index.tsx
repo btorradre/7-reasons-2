@@ -99,14 +99,14 @@ export default function Index() {
 
         {/* Criterion 2: Verified Citrinin-Free Certification */}
         <section className="mb-12">
-          <h2
-            className="text-2xl md:text-3xl font-bold mb-4"
-            style={{ fontFamily: "Merriweather, serif" }}
-          >
-            2. Verified Citrinin-Free Certification
-          </h2>
           <div className="grid md:grid-cols-2 gap-8 items-start mb-8">
             <div>
+              <h2
+                className="text-2xl md:text-3xl font-bold mb-4"
+                style={{ fontFamily: "Merriweather, serif" }}
+              >
+                2. Verified Citrinin-Free Certification
+              </h2>
               <p
                 className="leading-relaxed mb-4"
                 style={{
