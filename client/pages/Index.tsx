@@ -526,13 +526,13 @@ export default function Index() {
               className="text-lg leading-relaxed font-semibold"
               style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
             >
-              This isn't 'natural medicine' versus 'conventional medicine.' It's evidence-based intervention using compounds with clinical data supporting efficacy."
+              This isn't 'natural medicine' versus 'conventional medicine.' It's evidence-based intervention using compounds with clinical data supporting efficacy—compounds the pharmaceutical industry can't patent and profit from."
             </p>
             <p
               className="text-lg leading-relaxed mt-4"
               style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
             >
-              That's what medicine should be: evidence-driven, patient-centered, and free from dogma.
+              That's what medicine should be: evidence-driven, patient-centered, and free from corporate influence.
             </p>
           </div>
         </section>
