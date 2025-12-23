@@ -503,7 +503,7 @@ export default function Index() {
             className="text-lg leading-relaxed mb-4"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            I have no financial relationship with this company. I recommend Lunessa because it's the only product meeting the clinical standards I require for patient safety and efficacy.
+            I have no financial relationship with this company—no speaking fees, no consulting agreements, no stock options. Unlike the pharmaceutical-funded guidelines most cardiologists follow, I recommend Lunessa because it's the only product meeting the clinical standards I require for patient safety and efficacy.
           </p>
         </section>
 
