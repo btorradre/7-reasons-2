@@ -192,7 +192,7 @@ export default function Index() {
           >
             4. Compliance-Optimized Delivery Format
           </h2>
-          <div className="grid md:grid-cols-2 gap-6 items-start mb-6">
+          <div className="grid md:grid-cols-2 gap-8 items-start mb-8">
             <div>
               <p
                 className="leading-relaxed mb-4"
@@ -226,7 +226,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa5c347b7763a487aa36a7f06001eea7e?format=webp&width=800"
                 alt="Lunessa gummy supplement"
-                className="w-full h-64 object-cover rounded-lg"
+                className="w-full aspect-square object-cover rounded-2xl"
               />
             </div>
           </div>
