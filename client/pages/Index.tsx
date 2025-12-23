@@ -144,7 +144,7 @@ export default function Index() {
           >
             3. Therapeutic CoQ10 Ratio: 200mg CoQ10 Per 2400mg Red Yeast Rice
           </h2>
-          <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
+          <div className="grid md:grid-cols-2 gap-8 items-center mb-8">
             <div className="order-2 md:order-1">
               <p
                 className="leading-relaxed mb-4"
@@ -178,7 +178,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F8bf672d855c34a67abbbad849909d896?format=webp&width=800"
                 alt="HMG-CoA Reductase mechanism in liver"
-                className="w-full h-auto object-contain rounded-lg"
+                className="w-full aspect-square object-cover rounded-2xl"
               />
             </div>
           </div>
