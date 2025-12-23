@@ -89,8 +89,8 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2">
               <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa39b0bb6a38a4492826f3c6b9bf857d0?format=webp&width=800"
-                alt="Lunessa gummies"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe066a97969ad4f6b97f1994bb4cf135d?format=webp&width=800"
+                alt="Red yeast rice"
                 className="w-full h-64 object-cover rounded-lg"
               />
             </div>
