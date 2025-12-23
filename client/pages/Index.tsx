@@ -27,7 +27,8 @@ export default function Index() {
             className="text-4xl md:text-5xl font-bold mb-6 leading-tight"
             style={{ fontFamily: "Merriweather, serif" }}
           >
-            7 Clinical Criteria I Use When Recommending Red Yeast Rice + CoQ10 to My Cardiology Patients
+            7 Clinical Criteria I Use When Recommending Red Yeast Rice + CoQ10
+            to My Cardiology Patients
           </h1>
 
           {/* Author Byline */}
@@ -54,7 +55,15 @@ export default function Index() {
             className="text-lg leading-relaxed mb-6"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            After 23 years in preventative cardiology, I walked away from a system that prioritizes pharmaceutical profits over patient outcomes. I've watched 50-60% of my patients discontinue statins within 18 months due to myalgia, cognitive complaints, and fatigue—side effects the industry dismisses as "necessary trade-offs." I refused to accept that narrative. For statin-intolerant patients, I developed a protocol using red yeast rice combined with CoQ10—but not all formulations meet clinical standards. Here are the seven criteria I require:
+            After 23 years in preventative cardiology, I walked away from a
+            system that prioritizes pharmaceutical profits over patient
+            outcomes. I've watched 50-60% of my patients discontinue statins
+            within 18 months due to myalgia, cognitive complaints, and
+            fatigue—side effects the industry dismisses as "necessary
+            trade-offs." I refused to accept that narrative. For
+            statin-intolerant patients, I developed a protocol using red yeast
+            rice combined with CoQ10—but not all formulations meet clinical
+            standards. Here are the seven criteria I require:
           </p>
         </section>
 
@@ -66,7 +75,8 @@ export default function Index() {
                 className="text-2xl md:text-3xl font-bold mb-4"
                 style={{ fontFamily: "Merriweather, serif" }}
               >
-                1. Standardized Monacolin K Content: Minimum 2400mg Red Yeast Rice Per Serving
+                1. Standardized Monacolin K Content: Minimum 2400mg Red Yeast
+                Rice Per Serving
               </h2>
               <p
                 className="leading-relaxed mb-4"
@@ -75,7 +85,11 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                Most commercial red yeast rice supplements contain 600mg or 1200mg per capsule—doses that show minimal efficacy in clinical trials. The published literature demonstrates that 2400mg daily achieves LDL reductions of 20-35%, comparable to low-dose statin therapy. I will not recommend formulations below this threshold.
+                Most commercial red yeast rice supplements contain 600mg or
+                1200mg per capsule—doses that show minimal efficacy in clinical
+                trials. The published literature demonstrates that 2400mg daily
+                achieves LDL reductions of 20-35%, comparable to low-dose statin
+                therapy. I will not recommend formulations below this threshold.
               </p>
               <p
                 className="leading-relaxed"
@@ -84,7 +98,13 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                Underdosing creates patient frustration and reinforces skepticism about natural alternatives. <strong>Lunessa delivers 2400mg of red yeast rice per serving</strong>, meeting the clinical standard established in peer-reviewed studies.
+                Underdosing creates patient frustration and reinforces
+                skepticism about natural alternatives.{" "}
+                <strong>
+                  Lunessa delivers 2400mg of red yeast rice per serving
+                </strong>
+                , meeting the clinical standard established in peer-reviewed
+                studies.
               </p>
             </div>
             <div className="order-1 md:order-2">
@@ -114,7 +134,10 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                Citrinin is a nephrotoxic mycotoxin that can contaminate poorly manufactured red yeast rice. While rare, citrinin toxicity presents as renal tubular damage and is entirely preventable with proper manufacturing protocols.
+                Citrinin is a nephrotoxic mycotoxin that can contaminate poorly
+                manufactured red yeast rice. While rare, citrinin toxicity
+                presents as renal tubular damage and is entirely preventable
+                with proper manufacturing protocols.
               </p>
               <p
                 className="leading-relaxed"
@@ -123,7 +146,11 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                I require third-party verification that each batch tests below detectable limits for citrinin contamination. This is non-negotiable for patient safety. <strong>Lunessa is certified citrinin-free</strong> with third-party testing documentation available on request.
+                I require third-party verification that each batch tests below
+                detectable limits for citrinin contamination. This is
+                non-negotiable for patient safety.{" "}
+                <strong>Lunessa is certified citrinin-free</strong> with
+                third-party testing documentation available on request.
               </p>
             </div>
             <div>
@@ -153,7 +180,10 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                Red yeast rice contains monacolin K, which inhibits HMG-CoA reductase—the same mechanism as lovastatin. This pathway also produces CoQ10, meaning red yeast rice depletes CoQ10 exactly as statins do.
+                Red yeast rice contains monacolin K, which inhibits HMG-CoA
+                reductase—the same mechanism as lovastatin. This pathway also
+                produces CoQ10, meaning red yeast rice depletes CoQ10 exactly as
+                statins do.
               </p>
               <p
                 className="leading-relaxed mb-4"
@@ -162,7 +192,11 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                The clinical problem my patients experience—myalgia, fatigue, cognitive dysfunction—is CoQ10 depletion, not the cholesterol reduction itself. Most combination products include 30mg, 50mg, or 100mg of CoQ10, which is insufficient to prevent depletion symptoms.
+                The clinical problem my patients experience—myalgia, fatigue,
+                cognitive dysfunction—is CoQ10 depletion, not the cholesterol
+                reduction itself. Most combination products include 30mg, 50mg,
+                or 100mg of CoQ10, which is insufficient to prevent depletion
+                symptoms.
               </p>
               <p
                 className="leading-relaxed"
@@ -171,7 +205,11 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                I recommend 200mg of CoQ10 per 2400mg of red yeast rice based on the ratio that prevents myalgia in clinical trials. <strong>Lunessa provides 200mg of CoQ10 per serving</strong>, matching the therapeutic ratio required to prevent statin-like side effects.
+                I recommend 200mg of CoQ10 per 2400mg of red yeast rice based on
+                the ratio that prevents myalgia in clinical trials.{" "}
+                <strong>Lunessa provides 200mg of CoQ10 per serving</strong>,
+                matching the therapeutic ratio required to prevent statin-like
+                side effects.
               </p>
             </div>
             <div className="order-1 md:order-2">
@@ -201,7 +239,10 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                The most effective intervention is the one patients actually take consistently. I've had patients discontinue treatment within weeks because they couldn't swallow large capsules or experienced gastric distress from powder formulations.
+                The most effective intervention is the one patients actually
+                take consistently. I've had patients discontinue treatment
+                within weeks because they couldn't swallow large capsules or
+                experienced gastric distress from powder formulations.
               </p>
               <p
                 className="leading-relaxed mb-4"
@@ -210,7 +251,9 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                Compliance technology matters as much as ingredient quality. If the delivery format creates friction, adherence drops and clinical outcomes suffer.
+                Compliance technology matters as much as ingredient quality. If
+                the delivery format creates friction, adherence drops and
+                clinical outcomes suffer.
               </p>
               <p
                 className="leading-relaxed"
@@ -219,7 +262,10 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                <strong>Lunessa uses a gummy format</strong> that eliminates swallowing difficulties and improves long-term compliance. This may seem trivial, but compliance rates directly correlate with clinical success in my patient population.
+                <strong>Lunessa uses a gummy format</strong> that eliminates
+                swallowing difficulties and improves long-term compliance. This
+                may seem trivial, but compliance rates directly correlate with
+                clinical success in my patient population.
               </p>
             </div>
             <div>
@@ -251,10 +297,13 @@ export default function Index() {
               >
                 I require independent verification of:
               </p>
-              <ul className="list-disc list-inside leading-relaxed mb-4" style={{
+              <ul
+                className="list-disc list-inside leading-relaxed mb-4"
+                style={{
                   fontFamily: "Open Sans, sans-serif",
                   color: "#333333",
-                }}>
+                }}
+              >
                 <li>Active ingredient content (monacolin K standardization)</li>
                 <li>Heavy metal screening (lead, mercury, arsenic, cadmium)</li>
                 <li>Microbial contamination testing</li>
@@ -267,7 +316,12 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                Supplement labels are notoriously unreliable. I will only recommend formulations with publicly available third-party testing documentation. <strong>Lunessa publishes third-party test results</strong> for each production batch, providing transparency that most supplement manufacturers avoid.
+                Supplement labels are notoriously unreliable. I will only
+                recommend formulations with publicly available third-party
+                testing documentation.{" "}
+                <strong>Lunessa publishes third-party test results</strong> for
+                each production batch, providing transparency that most
+                supplement manufacturers avoid.
               </p>
             </div>
             <div className="order-1 md:order-2">
@@ -297,7 +351,9 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                I don't recommend formulations based on marketing claims. I require that dosing aligns with published clinical trials demonstrating efficacy.
+                I don't recommend formulations based on marketing claims. I
+                require that dosing aligns with published clinical trials
+                demonstrating efficacy.
               </p>
               <p
                 className="leading-relaxed mb-4"
@@ -306,7 +362,10 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                The studies showing 20-35% LDL reduction use 2400mg of red yeast rice daily. The studies preventing CoQ10 depletion symptoms use 100-200mg of CoQ10 daily. Any formulation deviating significantly from these parameters lacks clinical support.
+                The studies showing 20-35% LDL reduction use 2400mg of red yeast
+                rice daily. The studies preventing CoQ10 depletion symptoms use
+                100-200mg of CoQ10 daily. Any formulation deviating
+                significantly from these parameters lacks clinical support.
               </p>
               <p
                 className="leading-relaxed"
@@ -315,7 +374,12 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                <strong>Lunessa's formulation matches the dosing used in clinical research</strong>, not arbitrary amounts chosen for cost optimization or marketing differentiation.
+                <strong>
+                  Lunessa's formulation matches the dosing used in clinical
+                  research
+                </strong>
+                , not arbitrary amounts chosen for cost optimization or
+                marketing differentiation.
               </p>
             </div>
             <div>
@@ -345,7 +409,9 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                I require patients on any cholesterol management protocol—pharmaceutical or natural—to obtain lipid panels at baseline, 8 weeks, and 12 weeks. This isn't optional.
+                I require patients on any cholesterol management
+                protocol—pharmaceutical or natural—to obtain lipid panels at
+                baseline, 8 weeks, and 12 weeks. This isn't optional.
               </p>
               <p
                 className="leading-relaxed mb-4"
@@ -354,7 +420,9 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                Red yeast rice + CoQ10 should produce measurable LDL reduction within 8-12 weeks. If it doesn't, either the formulation is inadequate or the patient requires a different intervention.
+                Red yeast rice + CoQ10 should produce measurable LDL reduction
+                within 8-12 weeks. If it doesn't, either the formulation is
+                inadequate or the patient requires a different intervention.
               </p>
               <p
                 className="leading-relaxed"
@@ -363,7 +431,10 @@ export default function Index() {
                   color: "#333333",
                 }}
               >
-                <strong>Lunessa offers a 90-day money-back guarantee</strong>, which aligns perfectly with the clinical timeframe needed to assess lipid response. Patients can verify results with laboratory testing before committing long-term.
+                <strong>Lunessa offers a 90-day money-back guarantee</strong>,
+                which aligns perfectly with the clinical timeframe needed to
+                assess lipid response. Patients can verify results with
+                laboratory testing before committing long-term.
               </p>
             </div>
             <div className="order-1 md:order-2 relative">
@@ -394,23 +465,44 @@ export default function Index() {
             className="text-lg leading-relaxed mb-4"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            Since implementing this protocol with qualifying patients, I've observed:
+            Since implementing this protocol with qualifying patients, I've
+            observed:
           </p>
-          <ul className="list-none leading-relaxed mb-6 text-lg" style={{
+          <ul
+            className="list-none leading-relaxed mb-6 text-lg"
+            style={{
               fontFamily: "Open Sans, sans-serif",
               color: "#333333",
-            }}>
-            <li>LDL reductions of 22-34% in statin-intolerant patients using Lunessa</li>
-            <li>Elimination of myalgia complaints in patients who experienced muscle pain on statins</li>
-            <li>Improved treatment adherence compared to traditional statin protocols</li>
-            <li>Restoration of CoQ10 levels verified by plasma testing in select patients</li>
-            <li>Patient-reported improvements in energy, cognitive clarity, and exercise tolerance</li>
+            }}
+          >
+            <li>
+              LDL reductions of 22-34% in statin-intolerant patients using
+              Lunessa
+            </li>
+            <li>
+              Elimination of myalgia complaints in patients who experienced
+              muscle pain on statins
+            </li>
+            <li>
+              Improved treatment adherence compared to traditional statin
+              protocols
+            </li>
+            <li>
+              Restoration of CoQ10 levels verified by plasma testing in select
+              patients
+            </li>
+            <li>
+              Patient-reported improvements in energy, cognitive clarity, and
+              exercise tolerance
+            </li>
           </ul>
           <p
             className="text-lg leading-relaxed mb-8"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            I now have over 200 patients following this protocol. Most maintain therapeutic LDL levels without the side effects that caused them to discontinue pharmaceutical statins.
+            I now have over 200 patients following this protocol. Most maintain
+            therapeutic LDL levels without the side effects that caused them to
+            discontinue pharmaceutical statins.
           </p>
           <div className="mt-8">
             <img
@@ -435,20 +527,38 @@ export default function Index() {
           >
             I recommend red yeast rice + CoQ10 combinations specifically for:
           </p>
-          <ul className="list-none leading-relaxed mb-6 text-lg" style={{
+          <ul
+            className="list-none leading-relaxed mb-6 text-lg"
+            style={{
               fontFamily: "Open Sans, sans-serif",
               color: "#333333",
-            }}>
-            <li>Statin-intolerant patients with documented myalgia, cognitive dysfunction, or fatigue on pharmaceutical therapy</li>
-            <li>Patients refusing statin therapy who understand cardiovascular risk and want evidence-based natural alternatives</li>
-            <li>Borderline-high LDL patients (130-160 mg/dL) who want to avoid pharmaceuticals initially</li>
-            <li>Patients with familial hypercholesterolemia seeking adjunctive therapy or statin dose reduction under medical supervision</li>
+            }}
+          >
+            <li>
+              Statin-intolerant patients with documented myalgia, cognitive
+              dysfunction, or fatigue on pharmaceutical therapy
+            </li>
+            <li>
+              Patients refusing statin therapy who understand cardiovascular
+              risk and want evidence-based natural alternatives
+            </li>
+            <li>
+              Borderline-high LDL patients (130-160 mg/dL) who want to avoid
+              pharmaceuticals initially
+            </li>
+            <li>
+              Patients with familial hypercholesterolemia seeking adjunctive
+              therapy or statin dose reduction under medical supervision
+            </li>
           </ul>
           <p
             className="text-lg leading-relaxed"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            This is not appropriate for patients with severe hypercholesterolemia requiring aggressive pharmaceutical intervention, or those with established cardiovascular disease needing maximum risk reduction.
+            This is not appropriate for patients with severe
+            hypercholesterolemia requiring aggressive pharmaceutical
+            intervention, or those with established cardiovascular disease
+            needing maximum risk reduction.
           </p>
         </section>
 
@@ -464,25 +574,37 @@ export default function Index() {
             className="text-lg leading-relaxed mb-4"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            After evaluating multiple products against these seven criteria, <strong>Lunessa is the only formulation I recommend to my patients.</strong>
+            After evaluating multiple products against these seven criteria,{" "}
+            <strong>
+              Lunessa is the only formulation I recommend to my patients.
+            </strong>
           </p>
-          <ul className="list-none leading-relaxed mb-6 text-lg" style={{
+          <ul
+            className="list-none leading-relaxed mb-6 text-lg"
+            style={{
               fontFamily: "Open Sans, sans-serif",
               color: "#333333",
-            }}>
+            }}
+          >
             <li>2400mg red yeast rice per serving (clinical dosing)</li>
             <li>200mg CoQ10 per serving (therapeutic ratio)</li>
             <li>Certified citrinin-free (third-party verified)</li>
             <li>Gummy format (compliance-optimized)</li>
             <li>Third-party tested (transparent documentation)</li>
             <li>Evidence-aligned dosing (matches clinical trials)</li>
-            <li>90-day guarantee (sufficient time for lipid panel verification)</li>
+            <li>
+              90-day guarantee (sufficient time for lipid panel verification)
+            </li>
           </ul>
           <p
             className="text-lg leading-relaxed mb-8"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            I have no financial relationship with this company—no speaking fees, no consulting agreements, no stock options. Unlike the pharmaceutical-funded guidelines most cardiologists follow, I recommend Lunessa because it's the only product meeting the clinical standards I require for patient safety and efficacy.
+            I have no financial relationship with this company—no speaking fees,
+            no consulting agreements, no stock options. Unlike the
+            pharmaceutical-funded guidelines most cardiologists follow, I
+            recommend Lunessa because it's the only product meeting the clinical
+            standards I require for patient safety and efficacy.
           </p>
           <div className="mt-8">
             <img
@@ -506,19 +628,27 @@ export default function Index() {
               className="text-lg leading-relaxed mb-4"
               style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
             >
-              "If you're statin-intolerant or refusing pharmaceutical therapy, we can try red yeast rice with CoQ10 under medical supervision. I'll need baseline labs, an 8-week follow-up panel, and a 12-week confirmation. If your LDL drops 20-30% and you feel better, we continue. If not, we adjust the protocol.
+              "If you're statin-intolerant or refusing pharmaceutical therapy,
+              we can try red yeast rice with CoQ10 under medical supervision.
+              I'll need baseline labs, an 8-week follow-up panel, and a 12-week
+              confirmation. If your LDL drops 20-30% and you feel better, we
+              continue. If not, we adjust the protocol.
             </p>
             <p
               className="text-lg leading-relaxed font-semibold"
               style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
             >
-              This isn't 'natural medicine' versus 'conventional medicine.' It's evidence-based intervention using compounds with clinical data supporting efficacy—compounds the pharmaceutical industry can't patent and profit from."
+              This isn't 'natural medicine' versus 'conventional medicine.' It's
+              evidence-based intervention using compounds with clinical data
+              supporting efficacy—compounds the pharmaceutical industry can't
+              patent and profit from."
             </p>
             <p
               className="text-lg leading-relaxed mt-4"
               style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
             >
-              That's what medicine should be: evidence-driven, patient-centered, and free from corporate influence.
+              That's what medicine should be: evidence-driven, patient-centered,
+              and free from corporate influence.
             </p>
           </div>
         </section>
@@ -559,7 +689,10 @@ export default function Index() {
                 className="text-sm leading-relaxed text-gray-700"
                 style={{ fontFamily: "Open Sans, sans-serif" }}
               >
-                "My cardiologist gave me the Lunessa protocol after I quit statins due to muscle pain. Within three months, my LDL dropped from 184 to 132. No muscle issues. She monitors my labs every six months and everything stays stable."
+                "My cardiologist gave me the Lunessa protocol after I quit
+                statins due to muscle pain. Within three months, my LDL dropped
+                from 184 to 132. No muscle issues. She monitors my labs every
+                six months and everything stays stable."
               </p>
             </div>
 
@@ -589,7 +722,10 @@ export default function Index() {
                 className="text-sm leading-relaxed text-gray-700"
                 style={{ fontFamily: "Open Sans, sans-serif" }}
               >
-                "I refused statins after watching my father deteriorate on them. My doctor introduced me to Dr. Chen's protocol using Lunessa. Sixteen weeks later, my LDL went from 198 to 141. My cardiologist said 'whatever you're doing, keep doing it.'"
+                "I refused statins after watching my father deteriorate on them.
+                My doctor introduced me to Dr. Chen's protocol using Lunessa.
+                Sixteen weeks later, my LDL went from 198 to 141. My
+                cardiologist said 'whatever you're doing, keep doing it.'"
               </p>
             </div>
 
@@ -619,7 +755,11 @@ export default function Index() {
                 className="text-sm leading-relaxed text-gray-700"
                 style={{ fontFamily: "Open Sans, sans-serif" }}
               >
-                "I have familial hypercholesterolemia and thought I'd need statins forever. Dr. Chen prescribed Lunessa alongside diet modifications. Three months: LDL down 52 points. No side effects. First time in my life I've had normal cholesterol without feeling terrible."
+                "I have familial hypercholesterolemia and thought I'd need
+                statins forever. Dr. Chen prescribed Lunessa alongside diet
+                modifications. Three months: LDL down 52 points. No side
+                effects. First time in my life I've had normal cholesterol
+                without feeling terrible."
               </p>
             </div>
           </div>
@@ -637,12 +777,16 @@ export default function Index() {
             className="text-lg leading-relaxed mb-4"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            Lunessa offers a 90-day money-back guarantee, which provides sufficient time to:
+            Lunessa offers a 90-day money-back guarantee, which provides
+            sufficient time to:
           </p>
-          <ul className="list-none leading-relaxed mb-6 text-lg" style={{
+          <ul
+            className="list-none leading-relaxed mb-6 text-lg"
+            style={{
               fontFamily: "Open Sans, sans-serif",
               color: "#333333",
-            }}>
+            }}
+          >
             <li>Obtain baseline lipid panel</li>
             <li>Take Lunessa consistently for 8-12 weeks</li>
             <li>Obtain follow-up lipid panel</li>
@@ -652,7 +796,9 @@ export default function Index() {
             className="text-lg leading-relaxed mb-4"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
-            If you don't achieve measurable LDL reduction and feel better, request a full refund. This is how evidence-based medicine works: verify results, adjust accordingly.
+            If you don't achieve measurable LDL reduction and feel better,
+            request a full refund. This is how evidence-based medicine works:
+            verify results, adjust accordingly.
           </p>
         </section>
 
