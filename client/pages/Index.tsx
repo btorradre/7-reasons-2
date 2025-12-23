@@ -479,11 +479,18 @@ export default function Index() {
             <li>90-day guarantee (sufficient time for lipid panel verification)</li>
           </ul>
           <p
-            className="text-lg leading-relaxed mb-4"
+            className="text-lg leading-relaxed mb-8"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
             I have no financial relationship with this company—no speaking fees, no consulting agreements, no stock options. Unlike the pharmaceutical-funded guidelines most cardiologists follow, I recommend Lunessa because it's the only product meeting the clinical standards I require for patient safety and efficacy.
           </p>
+          <div className="mt-8">
+            <img
+              src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fd1b5f373c3ba42a587965befb6642ff1?format=webp&width=800"
+              alt="Lunessa Red Yeast Rice + CoQ10 - Buy 2 Get 1 Free"
+              className="w-full max-w-3xl mx-auto aspect-square object-cover rounded-2xl"
+            />
+          </div>
         </section>
 
         {/* What I Tell My Patients */}
