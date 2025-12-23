@@ -60,7 +60,7 @@ export default function Index() {
 
         {/* Criterion 1: Standardized Monacolin K Content */}
         <section className="mb-12">
-          <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
+          <div className="grid md:grid-cols-2 gap-8 items-center mb-8">
             <div className="order-2 md:order-1">
               <h2
                 className="text-2xl md:text-3xl font-bold mb-4"
@@ -91,7 +91,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe066a97969ad4f6b97f1994bb4cf135d?format=webp&width=800"
                 alt="Red yeast rice"
-                className="w-full h-64 object-cover rounded-lg"
+                className="w-full aspect-square object-cover rounded-2xl"
               />
             </div>
           </div>
