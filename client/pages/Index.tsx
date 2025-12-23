@@ -234,7 +234,7 @@ export default function Index() {
 
         {/* Criterion 5: Third-Party Testing Protocols */}
         <section className="mb-12">
-          <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
+          <div className="grid md:grid-cols-2 gap-8 items-center mb-8">
             <div className="order-2 md:order-1">
               <h2
                 className="text-2xl md:text-3xl font-bold mb-4"
@@ -274,7 +274,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F78598b2183c545b6af46685ce50714fc?format=webp&width=800"
                 alt="Third-party testing and quality control"
-                className="w-full h-64 object-contain rounded-lg"
+                className="w-full aspect-square object-cover rounded-2xl"
               />
             </div>
           </div>
