@@ -224,8 +224,8 @@ export default function Index() {
             </div>
             <div>
               <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F78598b2183c545b6af46685ce50714fc?format=webp&width=800"
-                alt="Lunessa Red Yeast Rice + CoQ10 supplement bottle"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa5c347b7763a487aa36a7f06001eea7e?format=webp&width=800"
+                alt="Lunessa gummy supplement"
                 className="w-full h-64 object-cover rounded-lg"
               />
             </div>
@@ -272,8 +272,8 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2">
               <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa5c347b7763a487aa36a7f06001eea7e?format=webp&width=800"
-                alt="Third-party laboratory testing"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F78598b2183c545b6af46685ce50714fc?format=webp&width=800"
+                alt="Third-party testing and quality control"
                 className="w-full h-64 object-contain rounded-lg"
               />
             </div>
