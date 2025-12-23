@@ -282,14 +282,14 @@ export default function Index() {
 
         {/* Criterion 6: Clinical Trial Alignment */}
         <section className="mb-12">
-          <h2
-            className="text-2xl md:text-3xl font-bold mb-4"
-            style={{ fontFamily: "Merriweather, serif" }}
-          >
-            6. Clinical Trial Alignment: Evidence-Based Dosing
-          </h2>
           <div className="grid md:grid-cols-2 gap-8 items-start mb-8">
             <div>
+              <h2
+                className="text-2xl md:text-3xl font-bold mb-4"
+                style={{ fontFamily: "Merriweather, serif" }}
+              >
+                6. Clinical Trial Alignment: Evidence-Based Dosing
+              </h2>
               <p
                 className="leading-relaxed mb-4"
                 style={{
