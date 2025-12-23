@@ -640,7 +640,7 @@ export default function Index() {
         </section>
 
         {/* Try Lunessa Risk-Free */}
-        <section className="mb-12">
+        <section className="mb-12 max-w-4xl mx-auto text-center">
           <h2
             className="text-3xl md:text-4xl font-bold mb-6"
             style={{ fontFamily: "Merriweather, serif" }}
@@ -653,7 +653,7 @@ export default function Index() {
           >
             Lunessa offers a 90-day money-back guarantee, which provides sufficient time to:
           </p>
-          <ul className="list-disc list-inside leading-relaxed mb-6 text-lg" style={{
+          <ul className="list-none leading-relaxed mb-6 text-lg" style={{
               fontFamily: "Open Sans, sans-serif",
               color: "#333333",
             }}>
