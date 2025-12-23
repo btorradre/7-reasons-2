@@ -105,7 +105,7 @@ export default function Index() {
           >
             2. Verified Citrinin-Free Certification
           </h2>
-          <div className="grid md:grid-cols-2 gap-6 items-start mb-6">
+          <div className="grid md:grid-cols-2 gap-8 items-start mb-8">
             <div>
               <p
                 className="leading-relaxed mb-4"
@@ -130,7 +130,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F39353efe158844e89ceec11d415ed200?format=webp&width=800"
                 alt="Third-party testing certification"
-                className="w-full h-64 object-cover rounded-lg"
+                className="w-full aspect-square object-cover rounded-2xl"
               />
             </div>
           </div>
