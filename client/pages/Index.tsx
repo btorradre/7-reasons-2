@@ -330,7 +330,7 @@ export default function Index() {
 
         {/* Criterion 7: Patient Outcome Verification */}
         <section className="mb-12">
-          <div className="grid md:grid-cols-2 gap-6 items-center mb-6">
+          <div className="grid md:grid-cols-2 gap-8 items-center mb-8">
             <div className="order-2 md:order-1">
               <h2
                 className="text-2xl md:text-3xl font-bold mb-4"
@@ -370,7 +370,7 @@ export default function Index() {
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F1cfac38d8c2041679afdfd2384e6c66a?format=webp&width=800"
                 alt="Three bottles of Lunessa Red Yeast Rice + CoQ10 gummies"
-                className="w-full h-64 object-contain rounded-lg"
+                className="w-full aspect-square object-cover rounded-2xl"
               />
               {/* 90-Day Guarantee Badge */}
               <div className="absolute -top-4 -right-4 bg-gradient-to-br from-yellow-400 to-yellow-600 text-white rounded-full w-28 h-28 flex flex-col items-center justify-center shadow-lg border-4 border-white">
