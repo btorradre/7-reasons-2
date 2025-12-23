@@ -407,11 +407,18 @@ export default function Index() {
             <li>Patient-reported improvements in energy, cognitive clarity, and exercise tolerance</li>
           </ul>
           <p
-            className="text-lg leading-relaxed"
+            className="text-lg leading-relaxed mb-8"
             style={{ fontFamily: "Open Sans, sans-serif", color: "#333333" }}
           >
             I now have over 200 patients following this protocol. Most maintain therapeutic LDL levels without the side effects that caused them to discontinue pharmaceutical statins.
           </p>
+          <div className="mt-8">
+            <img
+              src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Ffc12d44552ba43f0a6b729c4913e92c2?format=webp&width=800"
+              alt="Patient with improved quality of life"
+              className="w-full max-w-2xl mx-auto aspect-video object-cover rounded-2xl"
+            />
+          </div>
         </section>
 
         {/* Who This Protocol Is For */}
