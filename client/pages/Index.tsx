@@ -383,7 +383,7 @@ export default function Index() {
         </section>
 
         {/* Clinical Outcomes in My Practice */}
-        <section className="mb-12">
+        <section className="mb-12 max-w-4xl mx-auto text-center">
           <h2
             className="text-3xl md:text-4xl font-bold mb-6"
             style={{ fontFamily: "Merriweather, serif" }}
@@ -396,7 +396,7 @@ export default function Index() {
           >
             Since implementing this protocol with qualifying patients, I've observed:
           </p>
-          <ul className="list-disc list-inside leading-relaxed mb-6 text-lg" style={{
+          <ul className="list-none leading-relaxed mb-6 text-lg" style={{
               fontFamily: "Open Sans, sans-serif",
               color: "#333333",
             }}>
@@ -415,7 +415,7 @@ export default function Index() {
         </section>
 
         {/* Who This Protocol Is For */}
-        <section className="mb-12">
+        <section className="mb-12 max-w-4xl mx-auto text-center">
           <h2
             className="text-3xl md:text-4xl font-bold mb-6"
             style={{ fontFamily: "Merriweather, serif" }}
@@ -428,7 +428,7 @@ export default function Index() {
           >
             I recommend red yeast rice + CoQ10 combinations specifically for:
           </p>
-          <ul className="list-disc list-inside leading-relaxed mb-6 text-lg" style={{
+          <ul className="list-none leading-relaxed mb-6 text-lg" style={{
               fontFamily: "Open Sans, sans-serif",
               color: "#333333",
             }}>
@@ -446,7 +446,7 @@ export default function Index() {
         </section>
 
         {/* Why Most Cardiologists Don't Recommend This */}
-        <section className="mb-12">
+        <section className="mb-12 max-w-4xl mx-auto text-center">
           <h2
             className="text-3xl md:text-4xl font-bold mb-6"
             style={{ fontFamily: "Merriweather, serif" }}
@@ -474,7 +474,7 @@ export default function Index() {
         </section>
 
         {/* The Formulation I Recommend */}
-        <section className="mb-12">
+        <section className="mb-12 max-w-4xl mx-auto text-center">
           <h2
             className="text-3xl md:text-4xl font-bold mb-6"
             style={{ fontFamily: "Merriweather, serif" }}
@@ -487,7 +487,7 @@ export default function Index() {
           >
             After evaluating multiple products against these seven criteria, <strong>Lunessa is the only formulation I recommend to my patients.</strong>
           </p>
-          <ul className="list-disc list-inside leading-relaxed mb-6 text-lg" style={{
+          <ul className="list-none leading-relaxed mb-6 text-lg" style={{
               fontFamily: "Open Sans, sans-serif",
               color: "#333333",
             }}>
@@ -508,8 +508,8 @@ export default function Index() {
         </section>
 
         {/* What I Tell My Patients */}
-        <section className="mb-12">
-          <div className="p-6 bg-[#fef2f2] border-l-4 border-[#942327] rounded-r-lg">
+        <section className="mb-12 max-w-4xl mx-auto">
+          <div className="p-6 bg-[#fef2f2] border-l-4 border-[#942327] rounded-r-lg text-center">
             <h2
               className="text-2xl md:text-3xl font-bold mb-4"
               style={{ fontFamily: "Merriweather, serif" }}
