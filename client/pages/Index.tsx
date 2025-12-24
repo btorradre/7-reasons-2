@@ -70,7 +70,7 @@ export default function Index() {
         {/* Criterion 1: Standardized Monacolin K Content */}
         <section className="mb-12">
           <div className="grid md:grid-cols-2 gap-8 items-center mb-8">
-            <div className="order-2 md:order-1">
+            <div className="md:order-1">
               <h2
                 className="text-2xl md:text-3xl font-bold mb-4"
                 style={{ fontFamily: "Merriweather, serif" }}
@@ -107,7 +107,7 @@ export default function Index() {
                 studies.
               </p>
             </div>
-            <div className="order-1 md:order-2">
+            <div className="md:order-2">
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa4caa21970d640cc8d3d9160799bbd16?format=webp&width=800"
                 alt="Lunessa vs Statins comparison"
@@ -172,7 +172,7 @@ export default function Index() {
             3. Therapeutic CoQ10 Ratio: 200mg CoQ10 Per 2400mg Red Yeast Rice
           </h2>
           <div className="grid md:grid-cols-2 gap-8 items-center mb-8">
-            <div className="order-2 md:order-1">
+            <div className="md:order-1">
               <p
                 className="leading-relaxed mb-4"
                 style={{
@@ -212,7 +212,7 @@ export default function Index() {
                 side effects.
               </p>
             </div>
-            <div className="order-1 md:order-2">
+            <div className="md:order-2">
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa472a44d11054d79b6043239d036af1e?format=webp&width=800"
                 alt="Patient comparison: statin side effects vs improved wellbeing with Lunessa"
@@ -281,7 +281,7 @@ export default function Index() {
         {/* Criterion 5: Third-Party Testing Protocols */}
         <section className="mb-12">
           <div className="grid md:grid-cols-2 gap-8 items-center mb-8">
-            <div className="order-2 md:order-1">
+            <div className="md:order-1">
               <h2
                 className="text-2xl md:text-3xl font-bold mb-4"
                 style={{ fontFamily: "Merriweather, serif" }}
@@ -324,7 +324,7 @@ export default function Index() {
                 supplement manufacturers avoid.
               </p>
             </div>
-            <div className="order-1 md:order-2">
+            <div className="md:order-2">
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F78598b2183c545b6af46685ce50714fc?format=webp&width=800"
                 alt="Third-party testing and quality control"
@@ -395,7 +395,7 @@ export default function Index() {
         {/* Criterion 7: Patient Outcome Verification */}
         <section className="mb-12">
           <div className="grid md:grid-cols-2 gap-8 items-center mb-8">
-            <div className="order-2 md:order-1">
+            <div className="md:order-1">
               <h2
                 className="text-2xl md:text-3xl font-bold mb-4"
                 style={{ fontFamily: "Merriweather, serif" }}
@@ -437,7 +437,7 @@ export default function Index() {
                 laboratory testing before committing long-term.
               </p>
             </div>
-            <div className="order-1 md:order-2 relative">
+            <div className="md:order-2 relative">
               <img
                 src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F7a9d6e8117dc4fe28bfda2ed6f4b37b6?format=webp&width=800"
                 alt="Happy customer with Lunessa Red Yeast Rice + CoQ10"
