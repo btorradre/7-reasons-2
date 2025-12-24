@@ -109,8 +109,8 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2">
               <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe066a97969ad4f6b97f1994bb4cf135d?format=webp&width=800"
-                alt="Red yeast rice"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa4caa21970d640cc8d3d9160799bbd16?format=webp&width=800"
+                alt="Lunessa vs Statins comparison"
                 className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
             </div>
