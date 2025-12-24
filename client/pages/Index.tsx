@@ -882,8 +882,8 @@ export default function Index() {
           rel="noopener noreferrer"
           className="sticky-cta-button block w-full text-white text-center py-5 px-8 md:py-[18px] md:px-5 sm:py-4 sm:px-[15px] text-lg md:text-base sm:text-sm font-bold tracking-wider md:tracking-wide sm:tracking-[0.5px] uppercase no-underline transition-all duration-300 shadow-[0_-2px_10px_rgba(0,0,0,0.1)] hover:shadow-[0_-4px_15px_rgba(0,0,0,0.2)] hover:-translate-y-0.5 active:translate-y-0"
           style={{
-            background: 'linear-gradient(to bottom, #8BC53F, #76B82A)',
-            backgroundColor: '#82C43C',
+            background: "linear-gradient(to bottom, #8BC53F, #76B82A)",
+            backgroundColor: "#82C43C",
           }}
         >
           Apply Discount and Check Availability
