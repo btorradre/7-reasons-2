@@ -120,3 +120,23 @@
     white-space: pre;
   }
 }
+
+@layer utilities {
+  /* Sticky CTA animations and styles */
+  @keyframes slideUp {
+    from {
+      transform: translateY(100%);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.5s ease-out;
+  }
+
+  .sticky-cta-button:hover {
+    background: linear-gradient(to bottom, #9ad84f, #86c83a) !important;
+  }
+}
