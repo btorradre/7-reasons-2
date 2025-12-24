@@ -109,8 +109,8 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2">
               <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fe066a97969ad4f6b97f1994bb4cf135d?format=webp&width=800"
-                alt="Red yeast rice"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa4caa21970d640cc8d3d9160799bbd16?format=webp&width=800"
+                alt="Lunessa vs Statins comparison"
                 className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
             </div>
@@ -155,8 +155,8 @@ export default function Index() {
             </div>
             <div>
               <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F39353efe158844e89ceec11d415ed200?format=webp&width=800"
-                alt="Third-party testing certification"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fad5951ba89544f75b9fd6315d380c861?format=webp&width=800"
+                alt="Lunessa Red Yeast Rice + CoQ10 bottles on pharmacy shelf"
                 className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
             </div>
@@ -214,8 +214,8 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2">
               <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F8bf672d855c34a67abbbad849909d896?format=webp&width=800"
-                alt="HMG-CoA Reductase mechanism in liver"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa472a44d11054d79b6043239d036af1e?format=webp&width=800"
+                alt="Patient comparison: statin side effects vs improved wellbeing with Lunessa"
                 className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
             </div>
@@ -439,8 +439,8 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2 relative">
               <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F1cfac38d8c2041679afdfd2384e6c66a?format=webp&width=800"
-                alt="Three bottles of Lunessa Red Yeast Rice + CoQ10 gummies"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F7a9d6e8117dc4fe28bfda2ed6f4b37b6?format=webp&width=800"
+                alt="Happy customer with Lunessa Red Yeast Rice + CoQ10"
                 className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
               {/* 90-Day Guarantee Badge */}
