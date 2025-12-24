@@ -2,7 +2,7 @@ import { Check, X } from "lucide-react";
 
 export default function Index() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-white pb-24">
       {/* Header */}
       <header className="bg-[#942327] text-white py-4">
         <div className="max-w-7xl mx-auto px-2 text-center">
