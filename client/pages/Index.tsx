@@ -214,8 +214,8 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2">
               <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F8bf672d855c34a67abbbad849909d896?format=webp&width=800"
-                alt="HMG-CoA Reductase mechanism in liver"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fa472a44d11054d79b6043239d036af1e?format=webp&width=800"
+                alt="Patient comparison: statin side effects vs improved wellbeing with Lunessa"
                 className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
             </div>
