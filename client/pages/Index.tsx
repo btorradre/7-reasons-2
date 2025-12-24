@@ -439,7 +439,7 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2 relative">
               <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fcd9f5755f6574320bdd6ca79d5c33119?format=webp&width=800"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F7a9d6e8117dc4fe28bfda2ed6f4b37b6?format=webp&width=800"
                 alt="Happy customer with Lunessa Red Yeast Rice + CoQ10"
                 className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
