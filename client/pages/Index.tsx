@@ -439,8 +439,8 @@ export default function Index() {
             </div>
             <div className="order-1 md:order-2 relative">
               <img
-                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2F1cfac38d8c2041679afdfd2384e6c66a?format=webp&width=800"
-                alt="Three bottles of Lunessa Red Yeast Rice + CoQ10 gummies"
+                src="https://cdn.builder.io/api/v1/image/assets%2F2a9401f877da48d6b4f725528745b384%2Fcd9f5755f6574320bdd6ca79d5c33119?format=webp&width=800"
+                alt="Happy customer with Lunessa Red Yeast Rice + CoQ10"
                 className="w-full max-w-md mx-auto aspect-square object-cover rounded-2xl"
               />
               {/* 90-Day Guarantee Badge */}
